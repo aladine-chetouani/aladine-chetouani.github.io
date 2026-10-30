@@ -18,8 +18,8 @@ backend:
     deleteMedia: Suppression du fichier « {{path}} »
 media_folder: public/uploads
 public_folder: /uploads
-site_url: https://aladine-chetouani.github.io/aladine-chetouani/
-display_url: https://aladine-chetouani.github.io/aladine-chetouani/
+site_url: https://aladine-chetouani.github.io/
+display_url: https://aladine-chetouani.github.io/
 collections:
   - name: news
     label: Actualités
