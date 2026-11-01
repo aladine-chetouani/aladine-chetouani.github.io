@@ -1,4 +1,3 @@
-# Ordre et visibilité des rubriques de la page d'accueil — modifiable dans le CMS (Réglages > Rubriques)
 sections:
   - id: news
     visible: true
@@ -29,7 +28,7 @@ sections:
     title_fr: Recrutement
     title_en: Join us
   - id: blog
-    visible: false
+    visible: true
     title_fr: Blog
     title_en: Blog
   - id: service
