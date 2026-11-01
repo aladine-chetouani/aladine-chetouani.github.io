@@ -6,7 +6,7 @@
 
 backend:
   name: github
-  repo: aladine-chetouani.github.io
+  repo: aladine-chetouani
   branch: main
   auth_methods:
     - token
