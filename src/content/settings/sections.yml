@@ -28,7 +28,7 @@ sections:
     title_fr: Recrutement
     title_en: Join us
   - id: blog
-    visible: true
+    visible: false
     title_fr: Blog
     title_en: Blog
   - id: service
@@ -36,6 +36,6 @@ sections:
     title_fr: Communauté scientifique
     title_en: Service
   - id: teaching
-    visible: false
+    visible: true
     title_fr: Enseignement
     title_en: Teaching
