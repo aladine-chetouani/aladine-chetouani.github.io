@@ -32,7 +32,7 @@ sections:
     title_fr: Blog
     title_en: Blog
   - id: service
-    visible: false
+    visible: true
     title_fr: Communauté scientifique
     title_en: Service
   - id: teaching
