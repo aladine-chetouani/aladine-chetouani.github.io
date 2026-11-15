@@ -1,12 +1,19 @@
-# Parcours — modifiable dans le CMS (Pages > Biographie et parcours)
 bio_fr: |-
-  Aladine Chetouani est professeur des universités à l'Université Sorbonne Paris Nord, où il dirige l'équipe Multimédia du laboratoire L2TI.
+  **PROFIL DE RECHERCHE**
 
-  Ses recherches portent sur la perception visuelle : où se pose notre regard, comment nous jugeons la qualité d'une image, et comment l'apprentissage profond peut le prédire. Elles trouvent des applications en imagerie médicale et pour le patrimoine culturel.
+  **Aladine Chetouani** est professeur des universités en vision par ordinateur et intelligence artificielle à l’Université Sorbonne Paris Nord, et membre senior de l’IEEE. Il dirige l’équipe « Multimédia » du laboratoire L2TI, qui compte environ 20 membres (permanents et non permanents). Ses travaux de recherche se situent à l’intersection de la vision par ordinateur, de la perception humaine et de l’apprentissage automatique : analyse perceptive de contenus multimédias (2D, stéréo, 3D), attention visuelle et suivi du regard (\*eye tracking\*), imagerie médicale, génération d’images et intégrité des contenus visuels. Ses domaines d’application incluent la santé, la sécurité maritime et le patrimoine culturel. Le fil conducteur de ses recherches est l’IA « avec l’humain dans la boucle » (\*human-in-the-loop AI\*), où la perception, le regard et le comportement d’experts servent à guider, évaluer et améliorer les modèles. Il est co-auteur de plus de 180 publications internationales, a encadré 15 doctorants, et a dirigé ou participé à de nombreux projets de recherche en collaboration avec des partenaires académiques et industriels. Il entretient une collaboration de longue date avec des universités marocaines (Université Mohammed V, UM6P, IAV Hassan II), ayant abouti à 34 publications communes et à l’organisation de deux conférences internationales à Rabat et Marrakech. Il a été président général (\*General Chair\*) de cinq conférences internationales (ACM ETRA 2025 et 2026, CBMI 2023 et 2024, IEEE IPTA 2024) et présidera la conférence IEEE IVMSP 2027. Il préside le comité « Challenges and Data Collections » de l’IEEE SPS, est membre élu des comités techniques IEEE SPS MMSP et IVMSP, éditeur associé de la revue \*IEEE TMM\* ainsi que de trois autres revues scientifiques (il a également été éditeur associé pour \*IEEE T-CSVT\*), et siège au comité de pilotage du GDR-IASIS, un réseau de recherche national du CNRS dédié à l’information, l’apprentissage, le signal, l’image et la vision.
+
+  **PROFIL D’ENSEIGNEMENT**
+
+  **Aladine Chetouani** enseigne depuis 18 ans au sein de trois établissements, dans des cursus d’ingénierie et de master — de la première année jusqu’au master 2 — auprès de promotions pouvant atteindre 200 étudiants. Son enseignement porte sur la programmation, l’apprentissage automatique et l’apprentissage profond, la vision par ordinateur et l’imagerie, ainsi que les systèmes embarqués ; il repose sur des projets au cours desquels les étudiants conçoivent et évaluent des systèmes à partir de données réelles. À l’université Sorbonne Paris Nord, il dirige le parcours SIVO (Systèmes Intelligents et Vision par Ordinateur) du Master, qui accueille environ 30 étudiants, et a créé ou refondu plusieurs enseignements de niveau Master. À Polytech’Orléans, il a occupé les fonctions de responsable adjoint de la spécialité d’ingénierie GPSE et a cofondé le programme dédié à l’Internet des objets (IoT). Il a par ailleurs mis en place un double diplôme avec l’université Mohammed Premier, au Maroc ; ce programme a été lancé en 2026 et est actuellement en cours de développement.
 bio_en: |-
-  Aladine Chetouani is a Full Professor at Université Sorbonne Paris Nord, where he heads the Multimedia team of the L2TI laboratory.
+  **RESEARCH BIO**
 
-  His research is about visual perception: where people look, how they judge the quality of what they see, and how deep learning can predict both. It has applications in medical imaging and cultural heritage.
+  **Aladine Chetouani** is a Full Professor in computer vision and artificial intelligence at Sorbonne Paris Nord University and an IEEE Senior Member. He **leads** the Multimedia team of the L2TI laboratory (about 20 permanent and non-permanent members). His re‐search lies at the intersection of **computer vision, human perception and machine learning**: perceptual analysis of multimedia content (2D, stereo, 3D), visual attention and eye tracking, medical imaging, image generation and the integrity of visual content, with applications in health, maritime safety and cultural heritage. Its common thread is **human-in-the-loop AI**, in which perception, gaze and expert behaviour guide, evaluate and improve models. He has co-authored more than 180 international publications, super‐vised 15 PhD students, and led and participated in several research projects with academic and industrial partners. He has a long-standing **collaboration with Moroccan universities** (Mohammed V University, UM6P, IAV Hassan II), with 34 joint publications and two international conferences chaired in Rabat and Marrakesh. He has been **General Chair** of five international conferences (ACM ETRA 2025 and 2026, CBMI 2023 and2024, IEEE IPTA 2024) and is General Chair of IEEE IVMSP 2027. He **chairs** the IEEE SPS Challenges and Data Collections committee, is an elected member of the IEEE SPSMMSP and IVMSP technical committees, an **Associate Editor** of IEEE TMM and three other journals (formerly of IEEE T-CSVT), and a **Steering Committee member** of the **GDR**-**IASIS**, the CNRS national research network on Information, Learning, Signal, Image and Vision.
+
+   **TEACHING BIO**
+
+  **Aladine Chetouani** has taught for 18 years in three institutions, in engineering and Master’s programmes, from first year to MSc 2, to cohorts of up to 200 students. His teaching covers **program‐ming, machine learning and deep learning, computer vision and imaging, and embed‐ded systems**, and relies on projects where students build and evaluate systems on real data. At Sorbonne Paris Nord, he **heads** the MSc 2 SIVO track (Intelligent Systems and Computer Vision, about 30 students) and has created or redesigned several Master’s courses. At Polytech’Orléans, he was **Deputy Head** of the GPSE engineering specialization and co-founded the IoT programme. He set up a **double degree** with Mohammed Premier University in Morocco, which opened in 2026 and is being further developed.
 timeline:
   - period: 2024 –
     title_fr: Professeur des universités
@@ -18,9 +25,9 @@ timeline:
     title_fr: Délégation CNRS
     title_en: CNRS research delegation
     place: L2S, CentraleSupélec, Université Paris-Saclay
-    detail_fr: ""
-    detail_en: ""
-  - period: "2020"
+    detail_fr: ''
+    detail_en: ''
+  - period: '2020'
     title_fr: Habilitation à diriger des recherches (HDR)
     title_en: Habilitation (HDR)
     place: Université d'Orléans
@@ -30,19 +37,19 @@ timeline:
     title_fr: Maître de conférences
     title_en: Associate Professor
     place: Polytech Orléans & laboratoire PRISME, Université d'Orléans
-    detail_fr: ""
-    detail_en: ""
-  - period: "2010"
+    detail_fr: ''
+    detail_en: ''
+  - period: '2010'
     title_fr: Doctorat
     title_en: PhD
     place: Université Paris 13, laboratoire L2TI
     detail_fr: « Vers un système d'évaluation de la qualité d'image multi-critères », sous la direction d'Azeddine Beghdadi.
     detail_en: “Towards a multi-criteria image quality assessment system”, supervised by Azeddine Beghdadi.
 distinctions:
-  - year: ""
+  - year: '2022'
     title_fr: Senior Member de l'IEEE
     title_en: IEEE Senior Member
-  - year: "2025"
+  - year: '2025'
     title_fr: Président du comité Challenges & Data Collection de l'IEEE Signal Processing Society
     title_en: Chair, IEEE Signal Processing Society Challenges & Data Collection Committee
 service_fr:
