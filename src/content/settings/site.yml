@@ -1,4 +1,3 @@
-# Profil et réglages généraux — modifiable dans le CMS (Réglages > Profil)
 name: Aladine Chetouani
 short_name: A. Chetouani
 title_fr: Professeur des universités
@@ -7,10 +6,10 @@ tagline_fr: Aladine Chetouani étudie où se pose notre regard et comment nous j
 tagline_en: Aladine Chetouani studies where people look and how they judge what they see, then teaches machines to predict both.
 affiliation_fr: Laboratoire L2TI, Institut Galilée · Université Sorbonne Paris Nord · Responsable de l'équipe Multimédia
 affiliation_en: L2TI Laboratory, Institut Galilée · Université Sorbonne Paris Nord · Head of the Multimedia Team
-photo: /uploads/profile/aladine-chetouani.jpg
-cv: ''
+photo: /uploads/Photo_Aladine_P.jpeg
 photo_alt_fr: Portrait d'Aladine Chetouani
 photo_alt_en: Portrait of Aladine Chetouani
+cv: ''
 email: aladine.chetouani@univ-paris13.fr
 phone: ''
 address_fr: |-
@@ -28,8 +27,8 @@ open_positions_fr: Les candidatures spontanées pour des stages de master, thès
 open_positions_en: Unsolicited applications for MSc internships, PhD and postdoc positions in visual perception, visual attention and deep learning are welcome. Send a CV and a short letter by email.
 metrics:
   source: Google Scholar
-  as_of: '2026-10'
-  citations: 2438
+  as_of: 2026-10
+  citations: 2480
   h_index: 26
   i10_index: 70
 links:
