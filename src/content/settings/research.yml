@@ -1,17 +1,22 @@
-# Thèmes de recherche — modifiable dans le CMS (Pages > Recherche)
-intro_fr: ""
-intro_en: ""
+intro_fr: .
+intro_en: .
 themes:
   - code: GAZE
     title_fr: Attention visuelle et oculométrie
     title_en: Visual attention and eye tracking
-    text_fr: Prédire où se pose le regard (saillance, parcours oculaires) sur des images, des vidéos et des œuvres d'art.
-    text_en: Predicting where people look (saliency, scanpaths) on images, video and artworks.
+    text_fr: |-
+      Prédire où se pose le regard (saillance, parcours oculaires) sur des images, des vidéos, des œuvres d'art, ...
+      L'objectif étant de comprendre le comportement visuel et de l'intégrer dans les modèles d'apprentissage profond.
+    text_en: |-
+      Predicting where people look (saliency, scanpaths) on images, video, artworks, etc.
+      The goal is to understand visual behavior and integrate it into deep learning models.
     keywords:
       - Saliency
       - Scanpaths
       - Eye tracking
       - ETRA
+      - Human-in-the-loop
+      - Deep Learning
   - code: IQA
     title_fr: Évaluation de la qualité perçue
     title_en: Perceptual quality assessment
@@ -22,11 +27,18 @@ themes:
       - Point clouds
       - 3D meshes
       - Stereo
+      - Deep Learning
   - code: MED
     title_fr: Imagerie médicale
     title_en: Medical imaging
-    text_fr: Détection précoce de la gonarthrose sur radiographies.
-    text_en: Early detection of knee osteoarthritis on X-rays.
+    text_fr: |-
+      Vision par ordinateur et apprentissage profond pour l'imagerie médicale
+      Applications: classification, segmentation, perception, prédiction, etc.
+      Plusieurs modalités :X-ray, MRI, CT, PET
+    text_en: |-
+      Computer Vision and Deep Learning for medical imaging
+      Applications: classification, segmentation, perception, prediction, etc.
+      Several modalities: X-ray, MRI, CT, PET
     keywords:
       - Knee osteoarthritis
       - X-ray
@@ -49,11 +61,11 @@ themes:
       - Facial expressions
       - Anti-spoofing
       - Behaviour
-facilities_fr: ""
-facilities_en: ""
 figure: /uploads/research/scanpaths-artists-neurotypical-asd.jpg
 figure_caption_fr: Parcours oculaires d'un artiste, d'un observateur neurotypique et d'un adulte autiste sur la même peinture.
 figure_caption_en: Scanpaths of an artist, a neurotypical observer and an autistic adult on the same painting.
 figure_alt_fr: Trois copies d'un paysage peint, chacune couverte du parcours oculaire d'un groupe différent
 figure_alt_en: Three copies of a landscape painting, each overlaid with the scanpath of a different group
 figure_credit: Figure 5, Kerkouri et al., arXiv 2026 (CC BY-NC-SA 4.0)
+facilities_fr: ''
+facilities_en: ''
