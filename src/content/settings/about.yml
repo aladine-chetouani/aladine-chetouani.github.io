@@ -19,8 +19,8 @@ timeline:
     title_fr: Professeur des universités
     title_en: Full Professor
     place: L2TI – Institut Galilée, Université Sorbonne Paris Nord
-    detail_fr: Responsable de l'équipe Multimédia et du parcours Images du master 2 3IR.
-    detail_en: Head of the Multimedia team and of the Images track of the MSc 2 3IR.
+    detail_fr: ''
+    detail_en: ''
   - period: 2020 – 2021
     title_fr: Délégation CNRS
     title_en: CNRS research delegation
@@ -75,6 +75,12 @@ timeline:
     place: France
     detail_fr: ''
     detail_en: National research network on Information, Learning, Signal, Image andVision (Information, Apprentissage, Signal, Image, viSion), co-Lead of the Audio, Vision and Perception theme
+  - period: 2025 -
+    title_fr: Président du comité d'experts disciplinaire 61
+    title_en: President of CED 61 Disciplinary Expert Committee (comité d’experts disciplinaire), Section 61
+    place: Université Sorbonne Paris Nord
+    detail_fr: ''
+    detail_en: ''
 distinctions:
   - year: '2022'
     title_fr: Senior Member de l'IEEE
