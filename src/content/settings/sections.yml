@@ -1,4 +1,8 @@
 sections:
+  - id: about
+    visible: true
+    title_fr: Parcours
+    title_en: Career
   - id: news
     visible: true
     title_fr: Actualités
@@ -19,10 +23,6 @@ sections:
     visible: true
     title_fr: Encadrement
     title_en: Supervision
-  - id: about
-    visible: true
-    title_fr: Parcours
-    title_en: Career
   - id: positions
     visible: false
     title_fr: Recrutement
