@@ -81,6 +81,12 @@ timeline:
     place: Université Sorbonne Paris Nord
     detail_fr: ''
     detail_en: ''
+  - period: 2025 -
+    title_fr: Chair, IEEE SPS Challenges and Data Collections (CDC)committee
+    title_en: Chair, IEEE SPS Challenges and Data Collections (CDC)committee
+    place: IEEE SPS
+    detail_fr: Coordination des défis dans le cadre des conférences IEEE ICASSP et IEEE ICIP, et gestion de l’appel à propositions visant à fournir un soutien financier pour l’organisation de ces défis.
+    detail_en: Coordination of challenges at IEEE ICASSP and IEEE ICIP, and management of the open call providing financial support for challenge organisation.
 distinctions:
   - year: '2022'
     title_fr: Senior Member de l'IEEE
