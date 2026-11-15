@@ -45,6 +45,18 @@ timeline:
     place: Université Paris 13, laboratoire L2TI
     detail_fr: « Vers un système d'évaluation de la qualité d'image multi-critères », sous la direction d'Azeddine Beghdadi.
     detail_en: “Towards a multi-criteria image quality assessment system”, supervised by Azeddine Beghdadi.
+  - period: 2011-2012
+    title_fr: Attaché Temporaire d'Enseignement et de Recherche (ATER)
+    title_en: Temporary Lecturer (ATER)
+    place: Sorbonne University
+    detail_fr: "192 heures - Traitement du signal, traitement d'image, reconnaissance de formes, vision par ordinateur - niveau : ingénieur et Master"
+    detail_en: '192 hours - Signal processing, image processing, pattern recognition, computer vision - level: engineering and Master’s degree'
+  - period: 2008-2010
+    title_fr: Moniteur
+    title_en: Teaching Assistant
+    place: Université Paris 13 (now Sorbonne Paris Nord)
+    detail_fr: Contrat doctoral pour l'enseignement (64 heures/an)
+    detail_en: Doctoral teaching contract, during the PhD (64 hours/year)
 distinctions:
   - year: '2022'
     title_fr: Senior Member de l'IEEE
