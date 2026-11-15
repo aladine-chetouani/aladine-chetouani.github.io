@@ -15,12 +15,42 @@ bio_en: |-
 
   **Aladine Chetouani** has taught for 18 years in three institutions, in engineering and Master’s programmes, from first year to MSc 2, to cohorts of up to 200 students. His teaching covers **program‐ming, machine learning and deep learning, computer vision and imaging, and embed‐ded systems**, and relies on projects where students build and evaluate systems on real data. At Sorbonne Paris Nord, he **heads** the MSc 2 SIVO track (Intelligent Systems and Computer Vision, about 30 students) and has created or redesigned several Master’s courses. At Polytech’Orléans, he was **Deputy Head** of the GPSE engineering specialization and co-founded the IoT programme. He set up a **double degree** with Mohammed Premier University in Morocco, which opened in 2026 and is being further developed.
 timeline:
+  - period: 2025 -
+    title_fr: Responsable de l'équipe Multimédia - L2TI · Université Sorbonne Paris Nord
+    title_en: Head of the Multimedia team - L2TI
+    place: Université Sorbonne Paris Nord
+    detail_fr: Environ 20 membres, permanents et non permanents
+    detail_en: About 20 members, permanent and non-permanent
+  - period: 2025 -
+    title_fr: Responsable du parcours Master 2 - 3IR -  Systèmes Intelligents et Vision par Ordinateur (SIVO)
+    title_en: Head of the Master 2 program – 3IR – Intelligent Systems and Computer Vision (SIVO)
+    place: Institut Galilée - Université Sorbonne Paris Nord
+    detail_fr: Environ 30 étudiants
+    detail_en: About 30 students
+  - period: 2025 -
+    title_fr: Président du comité d'experts disciplinaire 61
+    title_en: President of CED 61 Disciplinary Expert Committee (comité d’experts disciplinaire), Section 61
+    place: Université Sorbonne Paris Nord
+    detail_fr: ''
+    detail_en: ''
+  - period: 2025 -
+    title_fr: Chair, IEEE SPS Challenges and Data Collections (CDC)committee
+    title_en: Chair, IEEE SPS Challenges and Data Collections (CDC)committee
+    place: IEEE SPS
+    detail_fr: Coordination des défis dans le cadre des conférences IEEE ICASSP et IEEE ICIP, et gestion de l’appel à propositions visant à fournir un soutien financier pour l’organisation de ces défis.
+    detail_en: Coordination of challenges at IEEE ICASSP and IEEE ICIP, and management of the open call providing financial support for challenge organisation.
   - period: 2024 –
     title_fr: Professeur des universités
     title_en: Full Professor
     place: L2TI – Institut Galilée, Université Sorbonne Paris Nord
     detail_fr: ''
     detail_en: ''
+  - period: 2023 -
+    title_fr: Membre du comité de direction du GDR-IASIS
+    title_en: Steering Committee member, GDR-IASIS - co-Lead of the Audio, Vision and Perception theme
+    place: France
+    detail_fr: ''
+    detail_en: National research network on Information, Learning, Signal, Image andVision (Information, Apprentissage, Signal, Image, viSion), co-Lead of the Audio, Vision and Perception theme
   - period: 2020 – 2021
     title_fr: Délégation CNRS
     title_en: CNRS research delegation
@@ -57,36 +87,6 @@ timeline:
     place: Université Paris 13 (now Sorbonne Paris Nord)
     detail_fr: Contrat doctoral pour l'enseignement (64 heures/an)
     detail_en: Doctoral teaching contract, during the PhD (64 hours/year)
-  - period: 2025 -
-    title_fr: Responsable de l'équipe Multimédia - L2TI · Université Sorbonne Paris Nord
-    title_en: Head of the Multimedia team - L2TI
-    place: Université Sorbonne Paris Nord
-    detail_fr: Environ 20 membres, permanents et non permanents
-    detail_en: About 20 members, permanent and non-permanent
-  - period: 2025 -
-    title_fr: Responsable du parcours Master 2 - 3IR -  Systèmes Intelligents et Vision par Ordinateur (SIVO)
-    title_en: Head of the Master 2 program – 3IR – Intelligent Systems and Computer Vision (SIVO)
-    place: Institut Galilée - Université Sorbonne Paris Nord
-    detail_fr: Environ 30 étudiants
-    detail_en: About 30 students
-  - period: 2023 -
-    title_fr: Membre du comité de direction du GDR-IASIS
-    title_en: Steering Committee member, GDR-IASIS - co-Lead of the Audio, Vision and Perception theme
-    place: France
-    detail_fr: ''
-    detail_en: National research network on Information, Learning, Signal, Image andVision (Information, Apprentissage, Signal, Image, viSion), co-Lead of the Audio, Vision and Perception theme
-  - period: 2025 -
-    title_fr: Président du comité d'experts disciplinaire 61
-    title_en: President of CED 61 Disciplinary Expert Committee (comité d’experts disciplinaire), Section 61
-    place: Université Sorbonne Paris Nord
-    detail_fr: ''
-    detail_en: ''
-  - period: 2025 -
-    title_fr: Chair, IEEE SPS Challenges and Data Collections (CDC)committee
-    title_en: Chair, IEEE SPS Challenges and Data Collections (CDC)committee
-    place: IEEE SPS
-    detail_fr: Coordination des défis dans le cadre des conférences IEEE ICASSP et IEEE ICIP, et gestion de l’appel à propositions visant à fournir un soutien financier pour l’organisation de ces défis.
-    detail_en: Coordination of challenges at IEEE ICASSP and IEEE ICIP, and management of the open call providing financial support for challenge organisation.
 distinctions:
   - year: '2022'
     title_fr: Senior Member de l'IEEE
