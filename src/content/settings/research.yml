@@ -46,12 +46,12 @@ themes:
   - code: HERITAGE
     title_fr: Patrimoine culturel et art
     title_en: Cultural heritage and art
-    text_fr: Analyse d'images pour le patrimoine et étude du regard porté sur les œuvres d'art.
-    text_en: Image analysis for heritage, and how people look at artworks.
+    text_fr: "Analyse d'images pour le patrimoine et étude du regard porté sur les œuvres d'art avec un lien notamment avec la santé : étude de la perception de l'art des personnes atteintes d'un spectre autistique."
+    text_en: 'Image analysis for cultural heritage, and the study of how works of art are viewed—with a particular connection to health: an examination of how individuals on the autism spectrum perceive art.'
     keywords:
-      - Pottery sherds
       - Paintings
       - Art perception
+      - Autism
   - code: HUMAN
     title_fr: Expressions faciales et comportement humain
     title_en: Facial expressions and human behaviour
