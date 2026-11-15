@@ -1,12 +1,12 @@
 sections:
-  - id: about
-    visible: true
-    title_fr: Parcours
-    title_en: Career
   - id: news
     visible: true
     title_fr: Actualités
     title_en: News
+  - id: about
+    visible: true
+    title_fr: Parcours
+    title_en: Career
   - id: research
     visible: true
     title_fr: Recherche
@@ -15,22 +15,10 @@ sections:
     visible: true
     title_fr: Publications choisies
     title_en: Selected publications
-  - id: gallery
-    visible: true
-    title_fr: Galerie
-    title_en: Gallery
   - id: team
     visible: true
     title_fr: Encadrement
     title_en: Supervision
-  - id: positions
-    visible: false
-    title_fr: Recrutement
-    title_en: Join us
-  - id: blog
-    visible: false
-    title_fr: Blog
-    title_en: Blog
   - id: service
     visible: true
     title_fr: Communauté scientifique
@@ -39,3 +27,15 @@ sections:
     visible: true
     title_fr: Enseignement
     title_en: Teaching
+  - id: gallery
+    visible: true
+    title_fr: Galerie
+    title_en: Gallery
+  - id: positions
+    visible: false
+    title_fr: Recrutement
+    title_en: Join us
+  - id: blog
+    visible: false
+    title_fr: Blog
+    title_en: Blog
